@@ -1,0 +1,33 @@
+/* @import da fonte utilizada */
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+
+div{
+    height: 500px;
+    width: 500px;
+    padding: 10px;
+
+    border-width: 10px;
+    border-style: solid;
+    border-color: #cdbbcf;
+    border-radius: 20%;
+
+    background-image: url(/Meteor\ Cloud\ Mobile\ Phone\ Wallpaper\ Beautiful\ Romantic\ Background\ Wallpaper\ Image\ For\ Free\ Download\ -\ Pngtree.jpg);
+    background-size: cover;
+    text-align: center;
+    box-shadow: inset 100px 1000px 100px 25px rgba(255, 255, 255, 0.356);
+    outline-width: 36px;
+    outline-style:double;
+    outline-color: #4A5279;
+
+    margin: auto;
+    margin-top: 100px;
+}
+
+p{
+    padding-top: 50px;
+    font-size: 85px;
+    font-family: "Neonderthaw", cursive;
+    color: #161722;
+    font-weight: 400;
+    font-style: normal;
+}
